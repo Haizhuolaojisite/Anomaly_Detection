@@ -127,7 +127,7 @@ output/*
 !output/.gitkeep
 
 # To encourage best practices, we're ignoring some common data/output types that are being dumped into git repo's
-*.png
+
 *.pickle
 *.ipynb
 *.csv
